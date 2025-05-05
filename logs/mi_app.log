@@ -1,0 +1,3 @@
+2025-05-04 23:38:03 | INFO | mi_app | test:5 | Esto es un mensaje INFO
+2025-05-04 23:38:03 | WARNING | mi_app | test:6 | Esto es un mensaje WARNING
+2025-05-04 23:38:03 | ERROR | mi_app | test:7 | Esto es un mensaje ERROR
